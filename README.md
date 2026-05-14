@@ -8,7 +8,7 @@ FindIt is a modern, Instagram-inspired lost-and-found platform designed for coll
 
 ## 🚀 Live Demo
 
-**Deployed URL:** (https://campus-lost-and-found-3p8kvfljz4szudthi8f58m.streamlit.app/)
+**Deployed URL:** https://campus-lost-and-found-3p8kvfljz4szudthi8f58m.streamlit.app/
 
 *(Replace with your actual Streamlit Cloud URL after deployment)*
 
