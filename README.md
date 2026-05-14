@@ -1,5 +1,5 @@
 # 🔍 FindIt — Campus Lost & Found Portal
-
+https://campus-lost-and-found-3p8kvfljz4szudthi8f58m.streamlit.app/
 > *"It should feel as easy to use as Instagram, not as boring as a college portal."*
 
 FindIt is a modern, Instagram-inspired lost-and-found platform designed for college campuses. Students can post lost or found items, get smart match suggestions powered by multi-signal scoring (text similarity, category, location, date proximity, and perceptual image hashing), claim items through a transparent workflow, and receive in-app + email notifications — all without needing to create an account.
