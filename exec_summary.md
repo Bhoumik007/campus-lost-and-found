@@ -33,4 +33,4 @@ FindIt is live and ready for a pilot with one department or hostel block. A camp
 
 ---
 
-*Built by Ayush Sibal | Infinia Technologies Application — Case Study 1*
+*Built by Bhoumik Parmar | Infinia Technologies Application — Case Study 1*
