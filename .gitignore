@@ -1,0 +1,6 @@
+findit.db
+findit.db-wal
+findit.db-shm
+__pycache__/
+*.pyc
+.env
