@@ -123,7 +123,7 @@ campus-lost-and-found/
 
 ## 👤 Author
 
-**Ayush Sibal**
+**Bhoumik Parmar**
 Built as part of the Data Analyst application at Infinia Technologies (FutureAI / Sirius International Holdings).
 
 ---
