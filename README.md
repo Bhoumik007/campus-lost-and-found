@@ -12,14 +12,6 @@ FindIt is a modern, Instagram-inspired lost-and-found platform designed for coll
 
 ---
 
-## 📸 Screenshots
-
-| Feed View | Post Item | Smart Matches | Claim Workflow |
-|-----------|-----------|---------------|----------------|
-| *screenshot* | *screenshot* | *screenshot* | *screenshot* |
-
----
-
 ## 🏗️ Tech Stack
 
 | Layer | Choice | Why |
